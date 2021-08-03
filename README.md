@@ -1,0 +1,2 @@
+# Face-recognition-based-attendance-system
+Facial Recognition based attendance system consists a process of identifying and then verifying a student’s face for recording attendance by using facial biometrics through the help of any high definition monitor video or image and running some algorithms on it. In this attendance project, a PC framework will have this project installed to find and recognize student faces fast and precisely from images being captured through any camera device like webcam or a centralised camera. 
